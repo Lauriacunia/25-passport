@@ -10,7 +10,6 @@ nmp start
 npm i express
 npm i express-session
 npm i session-file-store --save
-npm i cookie-parser --save
 npm i ejs
 npm i bulma
 npm i dotenv
